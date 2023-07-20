@@ -10,6 +10,7 @@
 </a>
 
 - 📫 How to reach me: <a href="mailto:gabriel@logspace.ai?subject=GH%3A%20Outreach">Contact by @email</a>
+- <a href="https://cal.com/ogabrielluiz" target="_blank">Schedule a call</a>
 
 <!--
 **ogabrielluiz/ogabrielluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
