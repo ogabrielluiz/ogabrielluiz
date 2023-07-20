@@ -1,6 +1,7 @@
 ### 👋 Data Scientist / Software Engineer 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ogabrielluiz&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars,contribs)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ogabrielluiz&theme=monokai-metallian)](https://git.io/streak-stats)
 
 #### Working on
 
